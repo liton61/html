@@ -1,0 +1,16 @@
+01) Heading
+02) Paragraph
+03) Formating
+04) Quotation
+05) Comment
+06) Link
+07) Image
+08) Table
+09) List
+10) Block & Inline
+11) Iframe
+12) Form
+13) Hr
+14) Audio
+15) video
+16) Marquee
